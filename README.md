@@ -29,7 +29,7 @@
 
 ### :man_technologist: Who Am I?
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the :uk:.
-- :telescope: I’m currently contracting for [SISOMA](https://sisoma.si) as a Lead Developer
+- :telescope: I’m currently contracting for [SISOMA](https://sisoma.ai) as a Lead Developer
 
 - :seedling: Exploring Technical Content Writing.
 
